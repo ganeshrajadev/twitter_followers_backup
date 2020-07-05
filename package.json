@@ -1,0 +1,25 @@
+{
+  "name": "twitter_followers_backup",
+  "version": "1.0.0",
+  "description": "A simple node script to backup Followers counts of Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshraja10/twitter_followers_backup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshraja10/twitter_followers_backup/issues"
+  },
+  "homepage": "https://github.com/ganeshraja10/twitter_followers_backup#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.5.9",
+    "twitter-lite": "^0.14.0"
+  }
+}
